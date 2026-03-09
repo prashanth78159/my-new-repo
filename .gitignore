@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+# data & outputs
+data/
+outputs/
+# common model formats (prefer LFS or keep out of Git if large)
+*.pt
+*.h5
+*.onnx
+*.pkl
+*.joblib
+# parquet/csv (usually large)
+*.parquet
+*.csv

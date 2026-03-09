@@ -1,5 +1,7 @@
 # Model Card
 - Date: 2026-02-09
-- Task: Heart Disease Classification
-- Metric (Valid): Accuracy on test set = 0.885
-- Notes: Trained in Colab, LogisticRegression with GridSearchCV, seed=42
+- Task: Example Classification/Regression
+- Data: (brief source)
+- Training: (lib versions, seed)
+- Metrics (valid/test): (MAE/RMSE/Accuracy/R2)
+- Notes: preprocessing, caveats, intended use
